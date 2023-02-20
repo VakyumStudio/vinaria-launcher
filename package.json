@@ -36,6 +36,6 @@
     },
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "git+https://github.com/VolteezDeFlandre/vinaria-launcher.git"
     }
 }
