@@ -1,0 +1,41 @@
+{
+    "name": "Vinaria-Launcher",
+    "preductname": "Vinaria Launcher",
+    "version": "1.0.4",
+    "description": "Launcher of Vinaria Network",
+    "main": "src/app.js",
+    "author": "vexato",
+    "url": "https://test.axoworld.fr/",
+    "azauth": "http://vakyum.fr",
+    "engines": {
+        "node": "16.x.x"
+    },
+    "scripts": {
+        "start": "cross-env-shell NODE_ENV=dev electron .",
+        "build": "node build.js",
+        "dev": "nodemon --exec npm start"
+    },
+    "license": "CC0",
+    "nodemonConfig": {
+        "ext": "js,html,css"
+    },
+    "dependencies": {
+        "discord-rpc": "^4.0.1",
+        "electron-updater": "^5.0.1",
+        "https": "^1.0.0",
+        "minecraft-java-core": "^2.1.1",
+        "minecraft-java-core-riptiaz": "^2.5.1",
+        "node-fetch": "^2.6.7",
+        "xml-js": "^1.6.11"
+    },
+    "devDependencies": {
+        "cross-env": "^7.0.3",
+        "electron": "^19.0.7",
+        "electron-builder": "^23.0.3",
+        "nodemon": "^2.0.16"
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    }
+}
