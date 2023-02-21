@@ -1,6 +1,6 @@
 {
     "name": "Vinaria-Launcher",
-    "preductname": "Vinaria Launcher",
+    "preductname": "Vinaria",
     "version": "1.0.4",
     "description": "Launcher of Vinaria Network",
     "main": "src/app.js",
