@@ -5,8 +5,8 @@
     "description": "Launcher of Vinaria Network",
     "main": "src/app.js",
     "author": "vexato",
-    "url": "https://test.axoworld.fr/",
-    "azauth": "http://vakyum.fr",
+    "url": "https://github.com/VakyumStudio/config-launcher-vinaria.git",
+    "azauth": "https://vakyum.fr",
     "engines": {
         "node": "16.x.x"
     },
@@ -36,6 +36,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/VolteezDeFlandre/vinaria-launcher.git"
+        "url": "git+https://github.com/VakyumStudio/vinaria-launcher.git"
     }
 }
