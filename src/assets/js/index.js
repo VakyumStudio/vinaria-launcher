@@ -22,7 +22,7 @@ class Splash {
 
     async startAnimation() {
         let splashes = [
-            { "message": "Vinaria - PvP/Factions", "author": "vexato" },
+            { "message": "Vinaria - PvP/Factions", "author": "@Gabriel" },
         ];
         let splash = splashes[Math.floor(Math.random() * splashes.length)];
         this.splashMessage.textContent = splash.message;
