@@ -5,7 +5,7 @@
     "description": "Launcher of Vinaria Network",
     "main": "src/app.js",
     "author": "vexato",
-    "url": "launcher.AxoWorld.fr",
+    "url": "https://launcher.AxoWorld.fr/",
     "azauth": "https://vakyum.fr",
     "engines": {
         "node": "16.x.x"
